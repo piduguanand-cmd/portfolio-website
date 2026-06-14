@@ -25,7 +25,7 @@ https://piduguanand-cmd.github.io/portfolio-website/
 
 ## GitHub Repository
 
-Paste your GitHub repository link here
+https://github.com/piduguanand-cmd/portfolio-website.git
 
 ## Author
 
